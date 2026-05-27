@@ -18,10 +18,10 @@
 
 ![界面截图](截屏2026-05-24%2022.39.51.png)
 
-## 编译命令
+## 编译命令(xxx为文件路径)
 
 ```bash
-cd "/Users/huangwei/素材/Image-Detection-Bypass-Utility-idbuv14r1" && pyinstaller IDBU.spec --clean 2>&1
+cd "xxx" && pyinstaller IDBU.spec --clean 2>&1
 ```
 
 ## 依赖
